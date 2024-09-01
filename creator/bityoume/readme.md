@@ -8,19 +8,31 @@
 
 # 贡献列表
 
+## 8 月贡献
+
+### 教程文章（`5` 篇）
+
+| 文章链接                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [02.dynamic_object_field.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/05_collection/02.dynamic_object_field.md)             |
+| [05_collection/03.vec_map_and_vec_set.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/05_collection/03.vec_map_and_vec_set.md) |
+| [05_collection/04.table.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/05_collection/04.table.md) |
+| [05_collection/05.bag.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/05_collection/05.bag.md) |
+| [04_random/01.random.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/04_random/01.random.md) |
+
 ## 7 月贡献
 
 ### 教程文章（`8` 篇）
 
-| 文章链接                                                     |
-| ------------------------------------------------------------ |
-| [01_sui_cli/01.move](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/01_sui_cli/01.move.md) |
-| [01_sui_cli/02.client.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/01_sui_cli/02.client.md) |
-| [01_sui_cli/03.keytool](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/01_sui_cli/03.keytool.md) |
-| [02_string/01.ascii](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/01.ascii.md) |
-| [02_string/02.utf8](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/02.utf8.md) |
-| [02_string/03.string_to_num](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/03.string_to_num.md) |
-| [02_string/04.num_to_string](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/04.num_to_string.md) |
+| 文章链接                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| [01_sui_cli/01.move](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/01_sui_cli/01.move.md)                         |
+| [01_sui_cli/02.client.md](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/01_sui_cli/02.client.md)                  |
+| [01_sui_cli/03.keytool](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/01_sui_cli/03.keytool.md)                   |
+| [02_string/01.ascii](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/01.ascii.md)                         |
+| [02_string/02.utf8](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/02.utf8.md)                           |
+| [02_string/03.string_to_num](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/03.string_to_num.md)         |
+| [02_string/04.num_to_string](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/02_string/04.num_to_string.md)         |
 | [05_collection/01.dynamic_field](https://github.com/bityoume/move-cookbook_rzexin/blob/main/src/05_collection/01.dynamic_field.md) |
 
 ## 6 月贡献
