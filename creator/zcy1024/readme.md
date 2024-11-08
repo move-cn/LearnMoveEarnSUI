@@ -40,3 +40,7 @@
 - [0基础从前端到Web3 —— Mine Clearance Frontend（一）](https://learnblockchain.cn/article/8194)
 - [0基础从前端到Web3 —— Mine Clearance Frontend（二）](https://learnblockchain.cn/article/8198)
 - [Sui Move 实现一个简单的无需管理的自动开奖系统 —— Self-service lottery](https://learnblockchain.cn/article/8215)
+
+## 2024-11
+
+- [Next.js + Move 石头剪刀布](https://learnblockchain.cn/article/9821)
